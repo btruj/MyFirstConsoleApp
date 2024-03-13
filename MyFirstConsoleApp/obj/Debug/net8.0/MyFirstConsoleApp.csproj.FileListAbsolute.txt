@@ -1,0 +1,17 @@
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp.deps.json
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp.runtimeconfig.json
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp.dll
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net8.0/MyFirstConsoleApp.pdb
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.AssemblyInfoInputs.cache
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.AssemblyInfo.cs
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.csproj.CoreCompileInputs.cache
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.dll
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/refint/MyFirstConsoleApp.dll
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.pdb
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.genruntimeconfig.cache
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/ref/MyFirstConsoleApp.dll
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/bin/Debug/net8.0/PasswordGenerator.dll
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstConsoleApp.csproj.AssemblyReference.cache
+/Users/bryantrujillo/projects/MyFirstConsoleApp/MyFirstConsoleApp/obj/Debug/net8.0/MyFirstC.EFE0D6BF.Up2Date
